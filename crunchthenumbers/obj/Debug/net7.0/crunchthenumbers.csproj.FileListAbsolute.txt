@@ -1,0 +1,15 @@
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/bin/Debug/net7.0/crunchthenumbers
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/bin/Debug/net7.0/crunchthenumbers.deps.json
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/bin/Debug/net7.0/crunchthenumbers.runtimeconfig.json
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/bin/Debug/net7.0/crunchthenumbers.dll
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/bin/Debug/net7.0/crunchthenumbers.pdb
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.csproj.AssemblyReference.cache
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.AssemblyInfoInputs.cache
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.AssemblyInfo.cs
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.csproj.CoreCompileInputs.cache
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.dll
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/refint/crunchthenumbers.dll
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.pdb
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/crunchthenumbers.genruntimeconfig.cache
+/home/koma/Documents/repos/dotnet_uebung_crunch_calc_solid/crunchthenumbers/obj/Debug/net7.0/ref/crunchthenumbers.dll
